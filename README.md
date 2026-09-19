@@ -2,9 +2,7 @@
 
 # VGA Tic‑Tac‑Toe
 
-This project was developed by:
-- **Hanz Baga**
-- **John Edward S. Macaraeg**
+This project was developed by: **Hanz Baga** and **John Edward Macaraeg**
 
 An FPGA‑based implementation of the classic Tic‑Tac‑Toe game with VGA output, designed for Tiny Tapeout.
 
