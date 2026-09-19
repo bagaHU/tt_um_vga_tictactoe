@@ -1,5 +1,7 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
+This project was developed by: **Hanz Baga** and **John Edward Macaraeg**
+
 # VGA Tic‑Tac‑Toe
 
 An FPGA‑based implementation of the classic Tic‑Tac‑Toe game with VGA output, designed for Tiny Tapeout.
@@ -7,8 +9,6 @@ An FPGA‑based implementation of the classic Tic‑Tac‑Toe game with VGA outp
 Link to VGA Playground: https://vga-playground.com/?repo=https://github.com/bagaHU/tt_um_vga_tictactoe
 
 <img width="278" height="269" alt="image" src="https://github.com/user-attachments/assets/f2a44560-0191-4484-a170-13ed9bf27018" />
-
-This project was developed by: **Hanz Baga** and **John Edward Macaraeg**
 
 ## 2D View
 
